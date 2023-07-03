@@ -1,0 +1,4 @@
+min_volume,max_volume,,,,
+0,1.20E+08,,,,"SELECT MIN(volume) AS min_volume,"
+,,,,,       MAX(volume) AS max_volume
+,,,,,  FROM tutorial.aapl_historical_stock_price

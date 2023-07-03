@@ -1,0 +1,3 @@
+count_of_date,,,
+3555,,,"SELECT COUNT(date) as ""count_of_date"""
+,,,  FROM tutorial.aapl_historical_stock_price

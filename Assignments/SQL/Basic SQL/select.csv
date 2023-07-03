@@ -1,0 +1,4 @@
+year,month,west,,
+1968,1,17,,"select year, month, west from tutorial.us_housing_units"
+1968,2,18.6,,limit 3
+1968,3,17.4,,

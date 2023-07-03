@@ -1,0 +1,10 @@
+year,year_rank,group_name,artist,song_name,id,,,
+1959,4,Frankie Avalon,,Venus,308,,,
+1960,20,Roy Orbison,,Only The Lonely,426,,,SELECT *
+1961,85,Paul Anka,,"Tonight My Love, Tonight",593,,,  FROM tutorial.billboard_top_100_year_end
+1962,77,Rick Nelson,,Teen Age Idol,685,,, WHERE artist IS NULL
+1985,24,Bryan Adams,,Heaven,3002,,,
+1991,42,Whitney Houston,,I'm Your Baby Tonight,3642,,,
+1997,89,Michael Bolton,,Go The Distance,4318,,,
+2005,42,Chris Brown,,Run It!,5280,,,
+2009,94,Zac Brown Band,,Whatever It Is,5898,,,

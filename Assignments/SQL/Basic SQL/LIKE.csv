@@ -1,0 +1,6 @@
+year,year_rank,group_name,artist,song_name,id,,,,SELECT *
+1994,52,Snoop Doggy Dogg,Snoop Doggy Dogg,Gin And Juice,3964,,,,  FROM tutorial.billboard_top_100_year_end
+1994,62,Snoop Doggy Dogg,Snoop Doggy Dogg,Who Am I (What's My Name?),3975,,,," WHERE ""group_name"" LIKE 'Snoop%'"
+2003,42,Snoop Dogg feat. Pharrell and Uncle Charlie Wilson,Snoop Dogg,Beautiful,5004,,,, limit 5
+2003,42,Snoop Dogg feat. Pharrell and Uncle Charlie Wilson,Pharrell,Beautiful,5005,,,,
+2003,42,Snoop Dogg feat. Pharrell and Uncle Charlie Wilson,Uncle Charlie Wilson,Beautiful,5006,,,,

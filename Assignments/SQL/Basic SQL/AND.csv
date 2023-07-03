@@ -1,0 +1,15 @@
+year,year_rank,group_name,artist,song_name,id,,,
+2012,1,Gotye feat. Kimbra,Gotye,Somebody That I Used To Know,6203,,,SELECT *
+2012,1,Gotye feat. Kimbra,Kimbra,Somebody That I Used To Know,6204,,,  FROM tutorial.billboard_top_100_year_end
+2012,2,Carly Rae Jepsen,Carly Rae Jepsen,Call Me Maybe,6205,,, WHERE year = 2012 AND year_rank <= 10
+2012,3,fun. feat. Janelle Monae,fun.,We Are Young,6206,,,
+2012,3,fun. feat. Janelle Monae,Janelle Monae,We Are Young,6207,,,
+2012,4,Maroon 5 feat. Wiz Khalifa,Maroon 5,Payphone,6208,,,
+2012,4,Maroon 5 feat. Wiz Khalifa,Wiz Khalifa,Payphone,6209,,,
+2012,5,Ellie Goulding,Ellie Goulding,Lights,6210,,,
+2012,6,The Wanted,The Wanted,Glad You Came,6211,,,
+2012,7,Kelly Clarkson,Kelly Clarkson,Stronger (What Doesn't Kill You),6212,,,
+2012,8,Rihanna feat. Calvin Harris,Rihanna,We Found Love,6213,,,
+2012,8,Rihanna feat. Calvin Harris,Calvin Harris,We Found Love,6214,,,
+2012,9,Nicki Minaj,Nicki Minaj,Starships,6215,,,
+2012,10,One Direction,One Direction,What Makes You Beautiful,6216,,,

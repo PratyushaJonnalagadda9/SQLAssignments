@@ -1,0 +1,3 @@
+avg,,,
+166.4376607,,,SELECT AVG(high)
+,,,  FROM tutorial.aapl_historical_stock_price
